@@ -1,6 +1,6 @@
 # DuAnTestBangTool
 Tổng hợp dự án 6 tháng
-TNC10712301_22211TT0999_NgoTrongHieu_BaoCaoCaNhan.docx(xem sơ lượt)
+NgoTrongHieu_Báo Cáo Đồ Án Cá Nhân.docxư
 - 1.Toeic
 - Viết TestCase Và Defeclist 
 - 2.Jimeter
